@@ -1,0 +1,4 @@
+3
+true -10
+false 5
+true 0

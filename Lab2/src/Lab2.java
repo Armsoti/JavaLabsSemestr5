@@ -10,7 +10,7 @@ public class Lab2 {
         System.out.print("Enter true or false: ");
         b = scanner.nextBoolean();
 
-        System.out.println("Enter a number.");
+        System.out.println("Enter a number:");
         i = scanner.nextInt();
 
         if (b) {
@@ -28,7 +28,7 @@ public class Lab2 {
             }
         }
 
-        System.out.println("Результат: " + result);
+        System.out.println("Result: " + result);
         scanner.close();
     }
 }
